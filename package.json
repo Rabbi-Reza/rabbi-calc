@@ -1,0 +1,23 @@
+{
+  "name": "rabbi-calc",
+  "version": "1.0.10",
+  "description": "Various Calculation function",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rabbi-Reza/rabbi-calc.git"
+  },
+  "keywords": [
+    "Calculation",
+    "Rabbi-Reza"
+  ],
+  "author": "S.M. Rabbi Reza",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rabbi-Reza/rabbi-calc/issues"
+  },
+  "homepage": "https://github.com/Rabbi-Reza/rabbi-calc#readme"
+}
