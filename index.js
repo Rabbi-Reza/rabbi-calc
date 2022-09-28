@@ -19,19 +19,18 @@ const CheckEven = (input) => {
     }
 }
 
-// const ViewResultAdd = () => {
-//     var tag = document.createElement("p"); // <p></p>
-//     var text = document.createTextNode(firstNumGL + secondNumGL); 
-//     tag.appendChild(text);
-//     // var element = document.getElementsByTagName("body")[0];
-//     var element = document.getElementsByTagName("div");
-//     // var element = document.getElementsByClassName("add-show")
-//     element.appendChild(tag); 
-// }
+const ViewResultAdd = () => {
+    var tag = document.createElement("p"); // <p></p>
+    var text = document.createTextNode(firstNumGL + secondNumGL); 
+    tag.appendChild(text);
+    // var element = document.getElementsByTagName("body")[0];
+    var element = document.getElementsByTagName("div");
+    // var element = document.getElementsByClassName("add-show")
+    element.appendChild(tag); 
+}
 
 module.exports = {
     AddTwo,
     CheckEven, 
-    // ViewResultAdd,
-    
+    ViewResultAdd,
 }

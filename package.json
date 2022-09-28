@@ -1,6 +1,6 @@
 {
   "name": "rabbi-calc",
-  "version": "1.0.10",
+  "version": "1.0.80",
   "description": "Various Calculation function",
   "main": "index.js",
   "scripts": {
